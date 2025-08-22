@@ -1,12 +1,31 @@
-# React + Vite
+# 🎬 Movie Explorer (React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Introduction
+Developed a React web app to fetch and display movies from an API.  
+Implemented dynamic routing to explore detailed movie information.  
+Ensured responsive, smooth navigation using React and React Router.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔎 Browse movies fetched dynamically from API  
+- 📂 View detailed movie pages with dynamic routing  
+- 📱 Responsive design for all screen sizes  
+- ⚡ Smooth navigation with React Router  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** React, React Router, Hooks  
+- **Styling:** CSS / TailwindCSS (based on your choice)  
+- **API:** OMDb API / TMDb API (your API used here)  
+- **Deployment:** Vercel / Netlify  
+
+---
+## 🌍 Live Demo  
+[Click here to view the project](https://sparkly-dasik-284059.netlify.app/)
+
+## ⚡ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pallavi689/React-Project.git
