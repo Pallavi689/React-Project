@@ -17,9 +17,9 @@ Ensured responsive, smooth navigation using React and React Router.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, React Router, Hooks  
-- **Styling:** CSS / TailwindCSS (based on your choice)  
-- **API:** OMDb API / TMDb API (your API used here)  
-- **Deployment:** Vercel / Netlify  
+- **Styling:** CSS / TailwindCSS 
+- **API:** OMDb API  
+- **Deployment:** Netlify  
 
 ---
 ## 🌍 Live Demo  
